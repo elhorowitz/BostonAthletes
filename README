@@ -1,0 +1,12 @@
+|*** BostonAthletes ***|
+
+
+
+Purpose: 
+This is a python screen scraper that scrapes birthplace and college information from yahoo sports for athletes
+on Boston sports teams. The date is then sent to a csv file which can be easily viewed in Google Maps using 
+Google Drive's Fusion Tables. Examples of these maps are located in the sportsMapURL.txt file.
+
+Specs: 
+- Python 2.7.5
+- Python Libraries: BeautifulSoup.py, gLatLong.py (heavily altered)
