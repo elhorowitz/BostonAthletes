@@ -1,0 +1,14 @@
+revolutions 
+https://www.google.com/fusiontables/DataSource?docid=1punADliWd2YDDo-peQvI5_YR69yqH5ibdOgPPy4
+
+bruins
+https://www.google.com/fusiontables/DataSource?docid=1FRNf5ckqphrqffy_1-0AVLbWxdVD7oRv3sdbzI8
+
+patriots
+https://www.google.com/fusiontables/DataSource?docid=1FRNf5ckqphrqffy_1-0AVLbWxdVD7oRv3sdbzI8
+
+celtics
+https://www.google.com/fusiontables/DataSource?docid=1Vl7frq9YalJ1WjL2LYu5BLoC6x_QS3vsdstFHZU
+
+redsox
+https://www.google.com/fusiontables/DataSource?docid=1MaSksp-bmv8flwbfBIxvR1bAIlZHRk1iL0avzRI
